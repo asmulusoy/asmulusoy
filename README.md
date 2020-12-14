@@ -13,5 +13,5 @@ WissenTech'te  Yazılım Geliştirici olarak çalışmaktayım.<br> ![CSharp](ht
 
 [![Twitter Badge](https://img.shields.io/badge/asmulusoy-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/asm_ulusoy/)
 
-### Projelerde kullanılan diller
+
 [![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=asmulusoy&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=asmulusoy&layout=compact&langs_count=10&hide=html,smarty,javascript)
